@@ -59,7 +59,7 @@ def get_hashtag_suggestions(tag):
     return all_hashtags
 
 def main():
-    st.title("📱 Enhanced LinkedIn Post Generator")
+    st.title("📱 LinkedIn Post Generator")
     
     # Sidebar for history
     with st.sidebar:
